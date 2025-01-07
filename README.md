@@ -6,4 +6,6 @@
 ![2](https://github.com/user-attachments/assets/197dc82e-7c30-4006-801f-50e030be0d82)
 ![3](https://github.com/user-attachments/assets/4acbe5d0-a15b-4d8d-aacf-cdc213946001)
 ![4](https://github.com/user-attachments/assets/12ade6aa-5003-432f-954b-87025be40b44)
+
+
 Проект собирался в Android Studio Electric Eel | 2022.1.1 Patch 2
